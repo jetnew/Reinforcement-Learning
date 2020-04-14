@@ -1,5 +1,5 @@
-# Reinforcement-Learning
-Repository of notes and implementation of Reinforcement Learning methods.
+# Reinforcement learning algorithms
+Reinforcement learning algorithm implementations in Python
 
 ## Papers
 * DQN: Playing Atari with Deep Reinforcement Learning, [Mnih et al, 2013](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
