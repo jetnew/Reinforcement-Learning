@@ -1,4 +1,4 @@
-# Reinforcement Learning Papers
+# RL Papers
 Replicating reinforcement learning papers and results.
 
 ## Papers
